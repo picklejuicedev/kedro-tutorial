@@ -17,6 +17,9 @@ logs/**
 !data/**/
 !logs/**/
 
+# except the following files
+!data/01_raw/train.csv
+
 # also keep all .gitkeep files
 !.gitkeep
 
